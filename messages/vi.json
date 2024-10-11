@@ -1,0 +1,40 @@
+{
+    "Header": {
+        "homePageUrl": "/vi",
+        "brandName": "Brand Name",
+        "typesOfTravel": "Loại Hình Du Lịch",
+        "travelDestinations": "Địa Điểm Du Lịch",
+        "touristActivities": "Hoạt Động Du Lịch",
+        "travelExperience": "Kinh Nghiệm Du Lịch",
+        "culturalTourism": "Du Lịch Văn Hóa",
+        "ecoTourism": "Du Lịch Sinh Thái",
+        "resortTravel": "Du Lịch Nghỉ Dưỡng",
+        "adventureTravel": "Du Lịch Phiêu Lưu",
+        "spiritualTravel": "Du Lịch Tâm Linh",
+        "internationalTourism": "Du Lịch Quốc Tế",
+        "domesticTourism": "Du Lịch Nội Địa",
+        "cityTourism": "Du Lịch Thành Phố",
+        "ruralTourism": "Du Lịch Nông Thôn",
+        "beachTourism": "Du Lịch Biển",
+        "mountainTourism": "Du Lịch Núi",
+        "islandTourism": "Du Lịch Đảo",
+        "lakeTourism": "Du Lịch Hồ",
+        "dining": "Ăn uống",
+        "trekking": "Trekking",
+        "scubaDiving": "Lặn Biển",
+        "kayaking": "Chèo Thuyền",
+        "cycling": "Đạp Xe",
+        "hiking": "Hiking",
+        "sightSeeing": "Tham Quan Di Tích",
+        "shopping": "Mua sắm",
+        "planning": "Lên Kế Hoạch",
+        "visaRequirements": "Visa",
+        "luggage": "Hành Lý",
+        "vaccinations": "Tiêm Phòng",
+        "currencyExchange": "Đổi Tiền"
+    },
+    "HomePage": {
+        "viewMoreButton": "XEM THÊM",
+        "viewMoreNewLetter": "Xem thêm bài viết mới"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Header": {
+        "homePageUrl": "/en",
+        "brandName": "Brand Name",
+        "typesOfTravel": "Types of Travel",
+        "travelDestinations": "Travel Destinations",
+        "touristActivities": "Tourist Activities",
+        "travelExperience": "Travel Experience",
+        "culturalTourism": "Cultural Tourism",
+        "ecoTourism": "Eco-Tourism",
+        "resortTravel": "Resort Travel",
+        "adventureTravel": "Adventure Travel",
+        "spiritualTravel": "Spiritual Travel",
+        "internationalTourism": "International Tourism",
+        "domesticTourism": "Domestic Tourism",
+        "cityTourism": "City Tourism",
+        "ruralTourism": "Rural Tourism",
+        "beachTourism": "Beach Tourism",
+        "mountainTourism": "Mountain Tourism",
+        "islandTourism": "Island Tourism",
+        "lakeTourism": "Lake Tourism",
+        "dining": "Dining",
+        "trekking": "Trekking",
+        "scubaDiving": "Scuba Diving",
+        "kayaking": "Kayaking",
+        "cycling": "Cycling",
+        "hiking": "Hiking",
+        "sightSeeing": "Sightseeing",
+        "shopping": "Shopping",
+        "planning": "Planning",
+        "visaRequirements": "Visa Requirements",
+        "luggage": "Luggage",
+        "vaccinations": "Vaccinations",
+        "currencyExchange": "Currency Exchange"
+    },
+    "HomePage": {
+        "viewMoreButton": "VIEW MORE",
+        "viewMoreNewLetter": "View more new letters"
+    }
+}
